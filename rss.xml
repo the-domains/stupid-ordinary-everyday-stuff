@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Foundry]]></title>
+        <description><![CDATA[The Foundry]]></description>
+        <link>http://www.revmikeumc.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Sep 2017 23:49:39 GMT</lastBuildDate>
+        <atom:link href="http://www.revmikeumc.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Take a knee]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a48422b50d50d275ac639c7e7c77b978/croprotate.jpg?cropheight=1876&cropwidth=1936&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F38a71b7e-8504-42c1-b539-0ae04e3d89d6.jpg&x=0&y=31">,<h1>Take a knee</h1>,<p>Here we go again. “Those elitist liberal snowflakes disrespecting our troops by not standing for the National Anthem. How dare they! Don't they know that our troops are fighting for their freedom. They should be thanking them, not spitting on their sacrifice.”</p>]]></description>
+            <link>http://www.revmikeumc.com/take-a-knee/index.html</link>
+            <guid isPermaLink="false">e88a2c13-5bcf-4ff5-93c7-e1186ae73133</guid>
+            <pubDate>Tue, 26 Sep 2017 01:59:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
