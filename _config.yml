@@ -1,0 +1,52 @@
+layout_spectrum: 0.14760892894819821
+typography_spectrum: 0.9802869653036025
+color:
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  brandStrength: 0.7329318115886042
+  lightness: 0.0749107668916741
+  saturation: 0.6503768413023341
+  rhythmicContrast: 0.2988822082754704
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: The Foundry
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ea60ffc-0c04-43a7-b4da-029718478794.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ea60ffc-0c04-43a7-b4da-029718478794.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: The Foundry
+description: 'do justice, love kindness, walk humbly'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbbb7b19-10ab-468a-8e04-acc72556ca4e.png
+url: 'http://www.revmikeumc.com/'
+github: true
