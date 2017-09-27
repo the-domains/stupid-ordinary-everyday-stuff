@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Foundry]]></title>
+        <description><![CDATA[The Foundry]]></description>
+        <link>http://www.revmikeumc.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Sep 2017 15:12:59 GMT</lastBuildDate>
+        <atom:link href="http://www.revmikeumc.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Take a Deep Breath…]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e83ec9594aa91c1d2f5551e03f935675/croprotate.png?cropheight=700&cropwidth=473&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fde2f5610-3693-4536-9c98-85599f74837b.png&x=65&y=0">,<h1>Take a Deep Breath…</h1>,<p>…now take another, and another. Try to slow your heartbeat a bit and bring your blood pressure down. Have you done that. Good. The oxygen and relaxing of your emotions may allow you to see clearly for a minute. </p>]]></description>
+            <link>http://www.revmikeumc.com/take-a-deep-breath/index.html</link>
+            <guid isPermaLink="false">4b6534d7-e026-45e7-80c8-5098ab221073</guid>
+            <pubDate>Wed, 27 Sep 2017 15:12:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
