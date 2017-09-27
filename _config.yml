@@ -24,11 +24,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: My Presbyterian Friend
-    url: 'https://www.danielmrose.com'
-    type: external
   - name: St. Matthew's UMC
     url: 'https://stmattsumc.org'
+    type: external
+  - name: My Presbyterian Friend
+    url: 'https://www.danielmrose.com'
     type: external
   - name: Cherry Hill UMC
     url: 'https://cherryhillumc.org'
