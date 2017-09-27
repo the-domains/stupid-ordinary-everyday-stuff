@@ -35,30 +35,5 @@ navigation:
     type: external
 favicon: null
 title: The Foundry
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e5bc2bf-d3b7-466f-917a-e8e917592436.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e5bc2bf-d3b7-466f-917a-e8e917592436.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: 'Do No Harm. Do Good. Stay in Love with God. '
