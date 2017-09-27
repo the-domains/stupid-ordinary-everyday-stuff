@@ -27,11 +27,11 @@ navigation:
   - name: St. Matthew's UMC
     url: 'https://stmattsumc.org'
     type: external
-  - name: My Presbyterian Friend
-    url: 'https://www.danielmrose.com'
-    type: external
   - name: Cherry Hill UMC
     url: 'https://cherryhillumc.org'
+    type: external
+  - name: My Presbyterian Friend
+    url: 'https://www.danielmrose.com'
     type: external
 favicon: null
 title: The Foundry
