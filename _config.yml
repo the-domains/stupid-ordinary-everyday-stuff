@@ -24,7 +24,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: The Rev
+  - name: My Presbyterian Friend
     url: 'https://www.danielmrose.com'
     type: external
 favicon: null
