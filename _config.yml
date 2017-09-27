@@ -27,6 +27,9 @@ navigation:
   - name: My Presbyterian Friend
     url: 'https://www.danielmrose.com'
     type: external
+  - name: St. Matthew's UMC
+    url: 'https://stmattsumc.org'
+    type: external
 favicon: null
 title: The Foundry
 content:
