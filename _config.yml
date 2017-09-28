@@ -15,7 +15,7 @@ layout_spectrum: 0.8307486575684224
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbbb7b19-10ab-468a-8e04-acc72556ca4e.png
 name: The Foundry
-url: 'http://www.revmikeumc.com/'
+url: 'http://revmikeumc.com/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -53,7 +53,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
