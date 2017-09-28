@@ -2,10 +2,10 @@
 inFeed: true
 description: >-
   …now take another, and another. Try to slow your heartbeat a bit and bring
-  your blood pressure down. Have you done that. Good. The oxygen and relaxing of
-  your emotions may allow you to think clearly for a minute.
-dateModified: '2017-09-27T22:19:48.791Z'
-datePublished: '2017-09-27T22:19:50.990Z'
+  your blood pressure down. Have you done that. Good. The added oxygen and
+  relaxing of your emotions may allow you to think more clearly for a minute.
+dateModified: '2017-09-28T17:48:18.200Z'
+datePublished: '2017-09-28T17:48:18.861Z'
 title: Take a Deep Breath…
 author: []
 publisher: {}
@@ -18,11 +18,11 @@ url: take-a-deep-breath/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5bd19a4-57ed-46bf-bbc9-2c9102daf086.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/31108bf5ebbc1d73487008317c8a0b47/croprotate.png?cropheight=700&cropwidth=414&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa5bd19a4-57ed-46bf-bbc9-2c9102daf086.png&x=95&y=0)
 
 # Take a Deep Breath...
 
-...now take another, and another. Try to slow your heartbeat a bit and bring your blood pressure down. Have you done that. Good. The oxygen and relaxing of your emotions may allow you to think clearly for a minute.
+...now take another, and another. Try to slow your heartbeat a bit and bring your blood pressure down. Have you done that. Good. The added oxygen and relaxing of your emotions may allow you to think more clearly for a minute.
 
 ---
 
