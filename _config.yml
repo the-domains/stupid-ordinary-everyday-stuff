@@ -33,6 +33,9 @@ navigation:
   - name: My Presbyterian Friend
     url: 'http://danielmrose.com'
     type: external
+  - name: About Me
+    id: 4b6534d7-e026-45e7-80c8-5098ab221073
+    type: content
 favicon: null
 title: The Foundry
 content:
@@ -44,19 +47,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/b423d41a-3a93-4a4a-9bb5-07c3cd9f936a.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
