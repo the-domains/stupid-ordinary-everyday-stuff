@@ -25,7 +25,7 @@ colors:
     - 'hsl(0,0%,20%)'
 navigation:
   - name: St. Matthew's UMC
-    url: 'https://stmattsumc.org'
+    url: 'http://stmattsumc.org'
     type: external
   - name: Cherry Hill UMC
     url: 'http://cherryhillumc.org'
