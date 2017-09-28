@@ -33,9 +33,6 @@ navigation:
   - name: My Presbyterian Friend
     url: 'http://danielmrose.com'
     type: external
-  - name: About Me
-    id: 4b6534d7-e026-45e7-80c8-5098ab221073
-    type: content
 favicon: null
 title: The Foundry
 content:
