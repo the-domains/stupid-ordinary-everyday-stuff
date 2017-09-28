@@ -28,10 +28,10 @@ navigation:
     url: 'https://stmattsumc.org'
     type: external
   - name: Cherry Hill UMC
-    url: 'https://cherryhillumc.org'
+    url: 'http://cherryhillumc.org'
     type: external
   - name: My Presbyterian Friend
-    url: 'https://danielmrose.com'
+    url: 'http://danielmrose.com'
     type: external
 favicon: null
 title: The Foundry
